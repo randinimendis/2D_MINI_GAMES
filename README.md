@@ -4,3 +4,4 @@
  ### ☑️ Astronaut 2D GAME
  ### ☑️ Levelup 2D GAME  
  ### ☑️ CAR RACING 2D GAME 
+ ### ☑️ STICKMAN 2D GAME 
